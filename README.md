@@ -1,12 +1,12 @@
 Task 1: CGPA Calculator
 A high-performance console application designed to automate the calculation of academic performance metrics.
 Features
-•	Dynamic Input: Users can specify the exact number of courses taken during the semester.
-•	Detailed Processing: Captures individual grades and credit hours for each subject.
-•	Automated Calculations:
-o	Computes total credits earned.
-o	Calculates total grade points using the formula $Total\ Grade\ Points = \sum (Grade \times Credit\ Hours)$.
-•	Comprehensive Results: Displays a breakdown of individual course grades, the semester GPA, and the cumulative CGPA.
+  •	Dynamic Input: Users can specify the exact number of courses taken during the semester.
+  •	Detailed Processing: Captures individual grades and credit hours for each subject.
+  •	Automated Calculations:
+  •	Computes total credits earned.
+  •	Calculates total grade points using the formula $Total\ Grade\ Points = \sum (Grade \times Credit\ Hours)$.
+  •	Comprehensive Results: Displays a breakdown of individual course grades, the semester GPA, and the cumulative CGPA.
 ________________________________________
 Task 2: Login and Registration System
 A secure credential management system designed to handle user authentication through persistent file storage.
